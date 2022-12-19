@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>48698513670-jcunc9qm1l89kg3dajfu75qvdl90uvq8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.48698513670-jcunc9qm1l89kg3dajfu75qvdl90uvq8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAa1HEnTdRBUy8s_8JNM3a17wt5EG62SbY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>48698513670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iot.watcherApp</string>
+	<key>PROJECT_ID</key>
+	<string>watcherapp-f9a63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>watcherapp-f9a63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:48698513670:ios:338fdb438bf504c51fa687</string>
+</dict>
+</plist>

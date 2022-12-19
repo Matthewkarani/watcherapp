@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48698513670",
+    "project_id": "watcherapp-f9a63",
+    "storage_bucket": "watcherapp-f9a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48698513670:android:09c7d13f937ac0511fa687",
+        "android_client_info": {
+          "package_name": "com.iot.watcher_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48698513670-8q9nntnm83rekol9v8r987e13l5qqgpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFCV8mju3oE0XmBTu-aq3nkQUMg542AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48698513670-8q9nntnm83rekol9v8r987e13l5qqgpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
